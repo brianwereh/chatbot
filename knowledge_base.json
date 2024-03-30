@@ -1,0 +1,33 @@
+{
+  "questions": [
+    {
+      "question": "hello, hi",
+      "answer": "hello there, how may I help you?"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I'm fine thank you, how may I help you?"
+    },
+    {
+      "question": "Good evening, GOOD EVENING",
+      "answer": "Good evening"
+    },
+    {
+      "question": "Good morning, GOOD MORNING",
+      "answer": "Good morning"
+    },
+    {
+      "question": "Good afternoon, GOOD AFTERNOON",
+      "answer": "Good afternoon"
+    },
+    {
+      "question": "hi",
+      "answer": "hi"
+    },
+    {
+      "question": "...",
+      "answer": "Elipses"
+    }
+
+  ]
+}
